@@ -22,6 +22,9 @@
 *.la
 *.lo
 
+#Java
+*.class
+
 # Shared objects (inc. Windows DLLs)
 *.dll
 *.so
