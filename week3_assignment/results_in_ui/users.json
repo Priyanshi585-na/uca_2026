@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Alice",
+        "active": true
+    },
+    {
+        "name": "Bob",
+        "active": false
+    },
+    {
+        "name": "Charlie",
+        "active": true
+    },
+    {
+        "name": "John",
+        "active": false
+    },
+    {
+        "name": "Ryle",
+        "active": false
+    },
+    {
+        "name": "Kai",
+        "active": true
+    }
+]
