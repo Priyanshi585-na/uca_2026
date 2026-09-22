@@ -32,6 +32,9 @@ public class Intersection{
 
 			else if(p1.data < p2.data)
 				p1 = p1.next;
+
+			else
+				p2 = p2.next;
 		}
 
 		return dummy.next;
